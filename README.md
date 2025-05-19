@@ -1,9 +1,6 @@
 # Project Title: Digitalization Extent of Top Performing Manufacturing Companies in the Lithuanian Manufacturing Industry
-This data analytics project is a part of my Master Thesis in the topic "Digitalization Extent of Top Performing Manufacturing Companies in the Lithuanian Manufacturing Industry". The analysis aiming to find digital technologies adopted in the industry and find out if the adoption levels vary between top performers and others, and if this variance is the real cause of the competitive advantage why top performers are forefront of their rivals.
-
 ## Project Overview
-
-This project aims to investigate the relationship between the level of digitalization and business performance within companies in the manufacturing industry. Utilizing a dataset containing information on various digital technology adoption levels and financial metrics, the analysis identifies top-performing companies and examines how their digitalization strategies differ from others.
+This data analytics project is a part of my Master Thesis in the topic "Digitalization Extent of Top Performing Manufacturing Companies in the Lithuanian Manufacturing Industry". The analysis aiming to find digital technologies adopted in the industry and find out if the adoption levels vary between top performers and others, and if this variance is the real cause of the competitive advantage why top performers are forefront of their rivals.
 
 ## Data
 
